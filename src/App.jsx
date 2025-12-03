@@ -124,18 +124,18 @@ export default function App() {
     }
   };
 
-  const handleClearCache = () => {
-    if (
-      window.confirm(
-        "This will clear all data and reload movies from API. Continue?"
-      )
-    ) {
-      localStorage.removeItem(STORAGE_KEY);
-      localStorage.removeItem(GENRES_KEY);
-      setLoading(true);
-      fetchMovies();
-    }
-  };
+  // const handleClearCache = () => {
+  //   if (
+  //     window.confirm(
+  //       "This will clear all data and reload movies from API. Continue?"
+  //     )
+  //   ) {
+  //     localStorage.removeItem(STORAGE_KEY);
+  //     localStorage.removeItem(GENRES_KEY);
+  //     setLoading(true);
+  //     fetchMovies();
+  //   }
+  // };
 
   if (loading) {
     return (
@@ -159,15 +159,15 @@ export default function App() {
           </span>
           <div>
             <button
-              className="btn btn-warning btn-md mx-2"
+              className="btn btn-warning btn-md mx-4"
               onClick={handleAddMovie}
             >
               ➕ Add New Movie
             </button>
 
-            <button className="btn btn-info btn-md" onClick={handleClearCache}>
+            {/* <button className="btn btn-info btn-md" onClick={handleClearCache}>
               🔄 Refresh from API
-            </button>
+            </button> */}
           </div>
         </div>
       </nav>
