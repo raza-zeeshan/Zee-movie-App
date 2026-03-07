@@ -21,9 +21,7 @@ A modern, feature-rich movie management application built with React and Vite. B
 - **HTTP Client**: Axios 1.13
 - **Code Quality**: ESLint 9.39
 - **State Management**: React Hooks (useState, useEffect, useMemo)
-
 ## 📋 Project Structure
-
 ```
 movie-app/
 ├── src/
