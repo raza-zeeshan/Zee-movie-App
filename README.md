@@ -22,7 +22,9 @@ A modern, feature-rich movie management application built with React and Vite. B
 - **Code Quality**: ESLint 9.39
 - **State Management**: React Hooks (useState, useEffect, useMemo)
 ## 📋 Project Structure
+
 ```
+
 movie-app/
 ├── src/
 │   ├── components/
