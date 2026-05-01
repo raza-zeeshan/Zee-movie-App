@@ -139,11 +139,14 @@ The app uses a custom color scheme:
 - Clear browser cache (Ctrl+Shift+Delete)
 - Rebuild the project: `npm run build && npm run preview`
 
+
 **Port already in use?**
 - Vite will automatically use the next available port
 - Or manually specify: `npm run dev -- --port 3000`
 
+
 ## 📝 Component Details
+
 
 ### App.jsx
 Main component managing:
@@ -151,6 +154,7 @@ Main component managing:
 - Search and genre filtering
 - Modal state for add/edit operations
 - LocalStorage synchronization
+
 
 ### MovieList.jsx
 Displays movies in a grid or list format with action buttons
