@@ -14,7 +14,6 @@ A modern, feature-rich movie management application built with React and Vite. B
 - **API Integration**: Fetch movie data from external APIs using Axios
 
 ## 🛠️ Tech Stack
-
 - **Frontend Framework**: React 19.2
 - **Build Tool**: Vite 7.2
 - **Styling**: Bootstrap 5.3
@@ -41,7 +40,6 @@ movie-app/
 ├── eslint.config.js           # ESLint configuration
 └── index.html                 # HTML entry point
 ```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
