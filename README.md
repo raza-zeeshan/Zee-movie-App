@@ -23,7 +23,6 @@ A modern, feature-rich movie management application built with React and Vite. B
 ## 📋 Project Structure
 
 ```
-
 movie-app/
 ├── src/
 │   ├── components/
