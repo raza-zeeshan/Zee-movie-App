@@ -3,7 +3,6 @@
 A modern, feature-rich movie management application built with React and Vite. Browse, search, filter, and manage a comprehensive collection of movies with an intuitive user interface.
 
 ## ✨ Features
-
 - **Movie Search**: Search movies by title in real-time
 - **Genre Filtering**: Filter movies by multiple genres simultaneously
 - **CRUD Operations**: Add, edit, and delete movies from your collection
@@ -12,7 +11,6 @@ A modern, feature-rich movie management application built with React and Vite. B
 - **Responsive Design**: Mobile-friendly interface built with Bootstrap 5
 - **Loading States**: User-friendly loading indicators
 - **API Integration**: Fetch movie data from external APIs using Axios
-
 ## 🛠️ Tech Stack
 - **Frontend Framework**: React 19.2
 - **Build Tool**: Vite 7.2
