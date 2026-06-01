@@ -43,6 +43,7 @@ movie-app/
 - Node.js (v14 or higher)
 - npm or yarn package manager
 
+
 ### Installation
 
 1. **Clone the repository**
@@ -67,7 +68,6 @@ movie-app/
    ```bash
    npm run dev
    ```
-
    The application will open at `http://localhost:5173` (or the next available port)
 
 ## 📦 Available Scripts
@@ -191,6 +191,10 @@ This project is open source and available under the MIT License.
 ## 👤 Author
 
 **Zeeshan Raza**
+
+## ✉️ Email
+
+**zeeshanraza0201@gmail.com**
 
 ## 🤝 Contributing
 
