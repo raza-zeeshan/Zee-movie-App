@@ -43,7 +43,6 @@ movie-app/
 - Node.js (v14 or higher)
 - npm or yarn package manager
 
-
 ### Installation
 
 1. **Clone the repository**
